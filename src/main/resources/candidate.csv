@@ -1,0 +1,11 @@
+candidateId,cicId,fullName,email,mobileNum,hiredDate,degree,aggrPer,city,state,prefferedJobLocation,status,passedOutYear,creatorUser,candidateStatus
+1,A1,John,john74@yahoo.com,7845125487,01-01-2001,B.Tech,80,Karnool,AP,Tirupati,In Progress,2019,admin,single
+2,A2,Peter,peter78@yahoo.com,7845366362,01-01-2010,B.Sc,70,Nellore,AP,Vizag,In Progress,2019,admin,single
+3,W7,David,david452@yahoo.com,781265423,01-01-2015,B.Sc,65,Kakinada,AP,Vijayanagaram,In Progress,2019,admin,single
+4,S8,Kevin,peter875@yahoo.com,985662365,01-01-2015,SSC,87,Yarkshire,AP,London,Dropped,2011,admin,married
+5,M7,Smith,steve3265@yahoo.com,3652365236,01-01-2014,M.Com,87,Sidney,AP,Australia,Dropped,2011,admin,married
+6,B8,Miller,davidsouth@yahoo.com,4564562583,01-01-2020,M.Sc,87,Sidney,AP,Ssjsksk,Dropped,2011,admin,married
+7,W8,Rohith,sharma45@gmail.com,4545784587,01-01-2007,B.Com,87,Mumbai,MH,India,Dropped,2011,admin,married
+8,W8,Rahul,lokesh54@gmail.com,9856321456,01-01-2015,B.Com,87,Bangalore,Karnataka,India,Dropped,2011,admin,married
+9,V7,Kohli,virat18@gmail.com,9818181818,01-01-2007,Plus2,87,Delhi,Delhi,India,Dropped,2011,admin,married
+10,S8,Sky,yadav655@gmail.com,4545784587,01-01-2007,B.Com,87,Mumbai,MH,India,Dropped,2011,admin,married
